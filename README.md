@@ -5,6 +5,7 @@ We are used to prompt the user (user input) to enter information.
 Next, we will conceal the information the user enters (such as credit/debit card info)
 
 This program allows the potential user to see their receipt for their purchase. 
+
 -------------------------------PMR----------------------------------------
 <+s>: In this program, I understood how to use replace when replacing numbers with special characters. 
 However, it was still unclear and I will need more practice. 
